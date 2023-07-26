@@ -5,7 +5,7 @@ I am passionate about constant learning and acquiring new technologies\tools tha
 
 **Featured Skills:**
 
-- **HTML, CSS and JavaScript** are my main languages.
+- **JavaScript, React and Node.js** are my main languages.
 - I have experience using **Bootstrap, Sass and Less** to create attractive and responsive interfaces.
 - I have knowledge and skills in **PHP and MySQL**.
 - I have worked with frameworks and libraries like **Node.js, React.js and Redux**.
