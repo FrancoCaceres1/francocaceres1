@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco Cáceres</h1>
-<h3 align="center">A passionate Software|Full Stack developer</h3>
+<h3 align="center">Passionate Software|Full Stack developer</h3>
 
-I am passionate about constant learning and acquiring new technologies\tools that allow me to expand my skills as a developer. In addition, I am willing to face great challenges, since I consider that they are fundamental in my process of growth as a professional.
+Passionate about constant learning and acquiring new technologies\tools that allow me to expand my skills as a developer. In addition, I am willing to face great challenges, since I consider that they are fundamental in my process of growth as a professional.
 
 **Featured Skills:**
 
