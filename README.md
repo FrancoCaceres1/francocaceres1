@@ -23,7 +23,7 @@ I am excited for the opportunities that await me and to continue to grow as a de
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/francoo_caceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="francoo_caceres" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/linkedin.com/in/franco-cáceres-2731a0273](https://www.linkedin.com/in/franco-c%C3%A1ceres-2731a0273/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/franco-cáceres-2731a0273" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/franco-cáceres-2731a0273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/franco-cáceres-2731a0273" height="30" width="40" /></a>
 <a href="https://instagram.com/frannco_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frannco_ca" height="30" width="40" /></a>
 </p>
 
