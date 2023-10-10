@@ -22,7 +22,7 @@ I am excited for the opportunities that await me and to continue to grow as a de
 
 - 📫 How to reach me:  **francocaceres008@gmail.com**
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   
   [![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoCaceres1&show_icons=true&theme=radical)](https://github.com/FrancoCaceres1/github-readme-stats)
 
