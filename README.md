@@ -16,7 +16,9 @@ I am excited for the opportunities that await me and to continue to grow as a de
 
 - 🌱 I’m currently learning:  **TypeScript, Express, MongoDB**
 
-- ✔️ My last project:  [Countries-API](https://pi-countries-api-flax.vercel.app/)
+- ✔️ My last project:  [Puebla del Mar](https://soy-puebla-deploy.vercel.app/)
+
+- 💼 My Portfolio: [Click Here](https://portfolio-alpha-rose-62.vercel.app/)
 
 - 📫 How to reach me:  **francocaceres008@gmail.com**
 
