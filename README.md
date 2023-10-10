@@ -24,6 +24,15 @@ I am excited for the opportunities that await me and to continue to grow as a de
 
 ## ◇ &nbsp; Github Stats &nbsp; 📊
 
+<!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
+
+![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only) -->
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebelia) -->
+
+<!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg) -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/francoo_caceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="francoo_caceres" height="30" width="40" /></a>
