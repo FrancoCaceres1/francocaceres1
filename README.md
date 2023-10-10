@@ -22,6 +22,10 @@ I am excited for the opportunities that await me and to continue to grow as a de
 
 - 📫 How to reach me:  **francocaceres008@gmail.com**
 
+<div>
+  ## ◇ &nbsp; Github Stats &nbsp; 📊
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/francoo_caceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="francoo_caceres" height="30" width="40" /></a>
