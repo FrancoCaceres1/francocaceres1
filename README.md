@@ -22,44 +22,6 @@ I am excited for the opportunities that await me and to continue to grow as a de
 
 - 📫 How to reach me:  **francocaceres008@gmail.com**
 
-## ◇ &nbsp; Github Stats &nbsp; 📊
-
-<!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only)
-
-![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only) -->
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebelia) -->
-
-<!-- ![Most Used Languages](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg)
-![Stats Overview](https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg) -->
-
-</div>
-<div style="display: flex; justify-content: center;">
-
-<!-- GitHub Stats -->
-<div  align="center">
-  <h2 align="right"></h2>
-  <img align="center"src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/languages.svg#gh-dark-mode-only" alt="Most Used Languages">
-  <img align="center" src="https://raw.githubusercontent.com/hebelia/github-stat/master/generated/overview.svg#gh-dark-mode-only" alt="Stats Overview">
-  <h2 align="right"></h2>
-</div>
-
-</div>
-
-<br>
-
-<a href="https://github.com/hebelia/github-readme-activity-graph"><img alt="hebelia's activity graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hebelia&bg_color=0c0c17&color=7777E4&line=CA7DDE&point=12e3a4&hide_border=true" /></a>
-
-<!-- colour pallete
-
-pink CA7DDE
-cyan 12e3a4
-lilac 7777E4
-dark purple 4242CD
-white D8DEE4
--->
-<!--  -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/francoo_caceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="francoo_caceres" height="30" width="40" /></a>
