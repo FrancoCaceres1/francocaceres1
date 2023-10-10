@@ -22,7 +22,7 @@ I am excited for the opportunities that await me and to continue to grow as a de
 
 - 📫 How to reach me:  **francocaceres008@gmail.com**
 
-[![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoCaceres1&show_icons=true&show_icons=true&theme=merko)](https://github.com/FrancoCaceres1/github-readme-stats)
+[![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoCaceres1&show_icons=true&show_icons=true&theme=onedark)](https://github.com/FrancoCaceres1/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
