@@ -22,9 +22,7 @@ I am excited for the opportunities that await me and to continue to grow as a de
 
 - 📫 How to reach me:  **francocaceres008@gmail.com**
 
-<div>
-  ## ◇ &nbsp; Github Stats &nbsp; 📊
-</div>
+## ◇ &nbsp; Github Stats &nbsp; 📊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
